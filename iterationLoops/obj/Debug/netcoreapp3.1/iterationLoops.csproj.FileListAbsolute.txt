@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.exe
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.dll
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\bin\Debug\netcoreapp3.1\iterationLoops.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.dll
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\iterationLoops\iterationLoops\iterationLoops\obj\Debug\netcoreapp3.1\iterationLoops.genruntimeconfig.cache
